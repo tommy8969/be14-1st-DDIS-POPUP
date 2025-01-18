@@ -36,11 +36,18 @@ Here is a little more about us:
 
 ## 🎯 Project Overview
 
-Our pop-up store project, **DDIS-POPUP**, is centered around building a robust database system to manage and optimize the operations of pop-up stores. This includes:
+### POP UP!
+> pop up은 어쩌고 서비스다..>
 
-- **Efficient Data Storage:** Storing and managing product, customer, and transaction data seamlessly.
-- **Custom Querying:** Supporting advanced queries for real-time insights.
-- **Scalability:** Ensuring the database can handle large volumes of data as the project grows.
+
+### ?
+- 팝업 운영자가 게시글을 등록하고 직접 관리하며, 사용자는 이를 통해 실시간으로 팝업 정보를 확인할 수 있는 양방향 소통 플랫폼입니다.
+
+- 사용자는 팝업 정보를 열람하면서 티켓 구매까지 한 번에 진행할 수 있어 편의성을 극대화합니다.
+
+- 팝업에 참여한 사용자만 리뷰와 별점을 남길 수 있어 신뢰도 높은 후기를 제공합니다.
+
+- 댓글을 통해 사용자와 팝업 운영자가 실시간으로 팝업의 분위기와 만족도 등 정보를 자유롭게 공유할 수 있습니다.
 
 ---
 
