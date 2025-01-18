@@ -72,9 +72,9 @@ Our pop-up store project, **DDIS-POPUP**, is centered around building a robust d
 4. 팝업을 **관심 목록에 추가**하거나 조회할 수 있습니다.
 5. 결제를 진행하고, 결제 내역을 **확인**할 수 있습니다.
 6. 팝업 티켓을 구매한 팝업 티켓 정보를 **조회**할 수 있습니다.
-7. 작성한 리뷰를 **수정하거나 삭제**할 수 있습니다.
-8. 작성한 댓글을 **수정하거나 삭제**할 수 있습니다.
-9. 팝업 리뷰 및 댓글에 **좋아요를 누르거나 취소**할 수 있습니다.
+7. 작성한 리뷰를 **수정**하거나 **삭제**할 수 있습니다.
+8. 작성한 댓글을 **수정**하거나 **삭제**할 수 있습니다.
+9. 팝업 리뷰 및 댓글에 **좋아요**를 누르거나 **취소**할 수 있습니다.
 10. 부적절한 리뷰나 댓글을 **신고**할 수 있습니다.
 
 ### 팝업 운영자
@@ -95,7 +95,7 @@ Our pop-up store project, **DDIS-POPUP**, is centered around building a robust d
 1. 블랙리스트에 등록된 사용자를 **조회**하고 관리할 수 있습니다.
 2. 사용자 계정에 문제가 있을 경우 **이용을 제한**할 수 있습니다.
 3. 팝업 운영자의 등록 요청을 **승인하거나 반려**할 수 있습니다.
-4. 팝업 게시물과 관련된 모든 정보를 **검토하고 승인**할 수 있습니다.
+4. 팝업 게시물과 관련된 모든 정보를 **검토**하고 **승인**할 수 있습니다.
 5. 전체 리뷰 및 댓글에 대한 신고 사항을 **검토**하여 조치를 취할 수 있습니다.
 6. 시스템 내 모든 계정에 대한 **권한 관리**를 수행할 수 있습니다.
 7. 매출 및 결제 데이터를 **조회**하고 백업 또는 복구 작업을 수행할 수 있습니다.
@@ -105,24 +105,22 @@ Our pop-up store project, **DDIS-POPUP**, is centered around building a robust d
 
 ---
 
-## 🏗️ Modeling Process
+## 🏗️ DB Modeling
+### Flowchart
+![플로우차트이미지](./images/다다익성_플로우차트.png)
+
 
 ### Conceptual Modeling
+![개념이미지](./images/다다익성_유스케이스.jpg)
 
-- Focused on identifying the core entities and their relationships.
-- Diagram and description included in the `docs/conceptual_model.pdf`.
 
 ### Logical Modeling
+![논리이미지](./images/다다익성_논리모델링.png)
 
-- Translated the conceptual model into a structured schema.
-- Defined attributes, keys, and relationships.
-- Diagram and description available in `docs/logical_model.pdf`.
 
 ### Physical Modeling
+![물리이미지](./images/다다익성_물리적모델링.png)
 
-- Implemented the logical model using MongoDB.
-- Optimized for performance and scalability.
-- Details can be found in `docs/physical_model.pdf`.
 
 ---
 
@@ -130,83 +128,12 @@ Our pop-up store project, **DDIS-POPUP**, is centered around building a robust d
 
 | Category   | Tools/Technologies |
 |------------|--------------------|
-| Database   | MongoDB            |
-| Backend    | Node.js, Express.js|
-| Deployment | Docker, AWS        |
+| Database   |   <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">          |
+| OS    |   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">|
+| Cloud Server | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">     |
+| Modeling |   <img src="https://img.shields.io/badge/da%23-84A454?style=for-the-badge&logo=&logoColor=black" alt="da#">  |
 
----
 
-## 📂 Repository Structure
-
-```plaintext
-BE14-1st-DDIS-POPUP/
-├── database/        # MongoDB setup, schema definitions, and scripts
-├── backend/         # API logic interacting with the database
-├── docs/            # Project documentation and database diagrams
-└── README.md        # Project overview (this file)
-```
-
----
-
-## 🌟 Getting Started
-
-Follow these steps to set up the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-team-name/BE14-1st-DDIS-POPUP.git
-   ```
-
-2. **Navigate to the project directory:**
-   ```bash
-   cd BE14-1st-DDIS-POPUP
-   ```
-
-3. **Set up the database:**
-   - Import the schema and sample data into MongoDB using the provided scripts in the `database/` folder.
-   - Start MongoDB locally or connect to a cloud-hosted instance.
-
-4. **Run the backend:**
-   ```bash
-   npm start
-   ```
-
-5. **Access database endpoints:**
-   Use tools like Postman to test database interactions or connect the database to the frontend.
-
----
-
-## 🏆 Database Highlights
-
-### Schema Overview
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x400.png?text=Database+Schema+Diagram" alt="Database Schema" />
-</div>
-
-- **Products Table:**
-  - Stores product details including name, category, price, and stock levels.
-
-- **Customers Table:**
-  - Contains customer profiles with contact information and purchase history.
-
-- **Orders Table:**
-  - Tracks individual transactions, linking customers and purchased products.
-
-- **Inventory Management:**
-  - Supports automated updates for stock levels based on orders.
-
-### Key Features
-
-- **Query Examples:**
-  - Get top-selling products.
-  - Identify frequent customers.
-  - Monitor low-stock items.
-
-- **Data Visualization:**
-  - Use dashboards to present key metrics and trends.
-
----
 
 ## 📜 License
 
@@ -214,14 +141,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📞 Contact
 
-Have questions or feedback? Reach out to us:
-
-- **Email:** teambe14@example.com
-- **GitHub Issues:** [Issues Page](https://github.com/your-team-name/BE14-1st-DDIS-POPUP/issues)
-
----
 
 <div align="center">
   <h3>Thank you for checking out our project! We hope to inspire and innovate with our database-driven pop-up store solution.</h3>
