@@ -23,14 +23,14 @@ We are **Team BE14**, focused on creating cutting-edge database solutions:
 
 Here is a little more about us:
 
-| Name              | Role                  | Introduction                                                                 |
-|-------------------|-----------------------|-----------------------------------------------------------------------------|
-| [Your Name]       | Database Architect    | Passionate about designing scalable and efficient database systems.        |
-| [Your Name]       | Backend Lead          | Loves crafting APIs and ensuring seamless backend operations.              |
-| [Your Name]       | Data Analyst          | Excels at extracting meaningful insights from complex data sets.           |
-| [Your Name]       | Project Manager       | Keeps the team on track and ensures timely delivery of project milestones. |
-| [Your Name]       | Tester                | Focuses on ensuring the highest quality with meticulous testing.           |
-| [Your Name]       | Documentation Specialist | Captures the essence of the project through comprehensive documentation.   |
+<center>
+
+|<img src="https://avatars.githubusercontent.com/u/108400640?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/128581270?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/77000498?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/74580387?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/174398545?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/106576062?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|한윤상<br/>[@tommy8969](https://github.com/tommy8969)|강이도은<br/>[@RKDLDE](https://github.com/RKDLDE)|고도연<br/>[@ddxyxxn](https://github.com/ddxyxxn)|김기종<br/>[@rrangeess](https://github.com/rrangeess)|이성준<br/>[@1214alex](https://github.com/1214alex)|주아현<br/>[@Jooahyeon](https://github.com/Jooahyeon)|
+
+
+</center>
 
 ---
 
