@@ -1,49 +1,58 @@
 # BE14-1st-DDIS-POPUP
 
-Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our team's innovative and interactive pop-up store project. Our goal is to blend technology and creativity to create a dynamic and engaging experience for our audience.
+<div align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=BE14-1st-DDIS-POPUP" alt="Project Banner" />
+</div>
+
+Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our team's database-focused project designed to revolutionize pop-up store management through efficient data handling and organization.
 
 ---
 
 ## 🎯 Project Overview
 
-Our pop-up store project, **DDIS-POPUP**, aims to redefine the traditional shopping and event space by introducing:
+Our pop-up store project, **DDIS-POPUP**, is centered around building a robust database system to manage and optimize the operations of pop-up stores. This includes:
 
-- **Dynamic Interactions:** Engaging and real-time user interactions.
-- **Innovative Design:** A visually appealing and futuristic pop-up concept.
-- **Seamless Experience:** Combining technology and customer experience into one seamless journey.
+- **Efficient Data Storage:** Storing and managing product, customer, and transaction data seamlessly.
+- **Custom Querying:** Supporting advanced queries for real-time insights.
+- **Scalability:** Ensuring the database can handle large volumes of data as the project grows.
 
 ---
 
-## 🚀 Features
+## 🚀 Database Features
 
-- **Interactive Displays:** Users can interact with products in a digital-first manner.
-- **Real-Time Analytics:** Track and display user engagement data for enhanced decision-making.
-- **Custom Themes:** Aesthetic designs tailored to our audience and event.
-- **Mobile Compatibility:** Fully responsive interfaces for on-the-go engagement.
+- **Schema Design:**
+  - Optimized for relational data, ensuring efficient storage and retrieval.
+  - Includes tables for products, customers, orders, and inventory.
+
+- **Data Integrity:**
+  - Enforced through primary and foreign key relationships.
+  - Implemented validation rules to maintain data accuracy.
+
+- **Real-Time Updates:**
+  - Integrated with the backend to reflect live updates from user interactions.
+
+- **Custom Reports:**
+  - Provides detailed analytics for sales trends, inventory levels, and customer behavior.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category           | Tools/Technologies     |
-|--------------------|------------------------|
-| Frontend          | React, HTML5, CSS3    |
-| Backend           | Node.js, Express.js   |
-| Database          | MongoDB               |
-| Deployment        | Docker, AWS           |
-| Real-Time Features | WebSocket, Firebase   |
+| Category   | Tools/Technologies |
+|------------|--------------------|
+| Database   | MongoDB            |
+| Backend    | Node.js, Express.js|
+| Deployment | Docker, AWS        |
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```plaintext
 BE14-1st-DDIS-POPUP/
-├── frontend/        # React-based user interface
-├── backend/         # API and server logic
-├── database/        # MongoDB setup and schema
-├── docs/            # Project documentation and assets
-├── tests/           # Unit and integration tests
+├── database/        # MongoDB setup, schema definitions, and scripts
+├── backend/         # API logic interacting with the database
+├── docs/            # Project documentation and database diagrams
 └── README.md        # Project overview (this file)
 ```
 
@@ -63,40 +72,77 @@ Follow these steps to set up the project locally:
    cd BE14-1st-DDIS-POPUP
    ```
 
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+3. **Set up the database:**
+   - Import the schema and sample data into MongoDB using the provided scripts in the `database/` folder.
+   - Start MongoDB locally or connect to a cloud-hosted instance.
 
-4. **Run the project:**
+4. **Run the backend:**
    ```bash
    npm start
    ```
 
-5. **Access the application:**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. **Access database endpoints:**
+   Use tools like Postman to test database interactions or connect the database to the frontend.
+
+---
+
+## 🏆 Database Highlights
+
+### Schema Overview
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x400.png?text=Database+Schema+Diagram" alt="Database Schema" />
+</div>
+
+- **Products Table:**
+  - Stores product details including name, category, price, and stock levels.
+
+- **Customers Table:**
+  - Contains customer profiles with contact information and purchase history.
+
+- **Orders Table:**
+  - Tracks individual transactions, linking customers and purchased products.
+
+- **Inventory Management:**
+  - Supports automated updates for stock levels based on orders.
+
+### Key Features
+
+- **Query Examples:**
+  - Get top-selling products.
+  - Identify frequent customers.
+  - Monitor low-stock items.
+
+- **Data Visualization:**
+  - Use dashboards to present key metrics and trends.
 
 ---
 
 ## 🤝 Team Members
 
-We are **Team BE14**, a passionate group of innovators and tech enthusiasts:
+We are **Team BE14**, focused on creating cutting-edge database solutions:
 
-- **Leader:** [Your Name]  
-- **Frontend Lead:** [Your Name]  
+- **Database Architect:** [Your Name]  
 - **Backend Lead:** [Your Name]  
-- **Designer:** [Your Name]  
+- **Data Analyst:** [Your Name]  
+- **Project Manager:** [Your Name]  
 - **Tester:** [Your Name]  
-- **Deployment Manager:** [Your Name]  
+- **Documentation Specialist:** [Your Name]  
 
 ---
 
-## 📈 Roadmap
+## 👥 Meet the Team
 
-1. Complete core features.
-2. Optimize user interactions.
-3. Deploy live version.
-4. Gather feedback and iterate.
+Here is a little more about us:
+
+| Name              | Role                  | Introduction                                                                 |
+|-------------------|-----------------------|-----------------------------------------------------------------------------|
+| [Your Name]       | Database Architect    | Passionate about designing scalable and efficient database systems.        |
+| [Your Name]       | Backend Lead          | Loves crafting APIs and ensuring seamless backend operations.              |
+| [Your Name]       | Data Analyst          | Excels at extracting meaningful insights from complex data sets.           |
+| [Your Name]       | Project Manager       | Keeps the team on track and ensures timely delivery of project milestones. |
+| [Your Name]       | Tester                | Focuses on ensuring the highest quality with meticulous testing.           |
+| [Your Name]       | Documentation Specialist | Captures the essence of the project through comprehensive documentation.   |
 
 ---
 
@@ -115,4 +161,6 @@ Have questions or feedback? Reach out to us:
 
 ---
 
-Thank you for checking out our project! We look forward to creating an impactful experience with BE14-1st-DDIS-POPUP.
+<div align="center">
+  <h3>Thank you for checking out our project! We hope to inspire and innovate with our database-driven pop-up store solution.</h3>
+</div>
