@@ -1,8 +1,6 @@
-# BE14-1st-DDIS-POPUP
+![배너](./images/다다익성_팝업배너.png)
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=BE14-1st-DDIS-POPUP" alt="Project Banner" />
-</div>
+
 
 Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our team's database-focused project designed to revolutionize pop-up store management through efficient data handling and organization.
 
