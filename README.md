@@ -8,6 +8,32 @@ Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our te
 
 ---
 
+## 🤝 Team Members
+
+We are **Team BE14**, focused on creating cutting-edge database solutions:
+
+- **Database Architect:** [Your Name]  
+- **Backend Lead:** [Your Name]  
+- **Data Analyst:** [Your Name]  
+- **Project Manager:** [Your Name]  
+- **Tester:** [Your Name]  
+- **Documentation Specialist:** [Your Name]  
+
+### 👥 Meet the Team
+
+Here is a little more about us:
+
+| Name              | Role                  | Introduction                                                                 |
+|-------------------|-----------------------|-----------------------------------------------------------------------------|
+| [Your Name]       | Database Architect    | Passionate about designing scalable and efficient database systems.        |
+| [Your Name]       | Backend Lead          | Loves crafting APIs and ensuring seamless backend operations.              |
+| [Your Name]       | Data Analyst          | Excels at extracting meaningful insights from complex data sets.           |
+| [Your Name]       | Project Manager       | Keeps the team on track and ensures timely delivery of project milestones. |
+| [Your Name]       | Tester                | Focuses on ensuring the highest quality with meticulous testing.           |
+| [Your Name]       | Documentation Specialist | Captures the essence of the project through comprehensive documentation.   |
+
+---
+
 ## 🎯 Project Overview
 
 Our pop-up store project, **DDIS-POPUP**, is centered around building a robust database system to manage and optimize the operations of pop-up stores. This includes:
@@ -33,6 +59,27 @@ Our pop-up store project, **DDIS-POPUP**, is centered around building a robust d
 
 - **Custom Reports:**
   - Provides detailed analytics for sales trends, inventory levels, and customer behavior.
+
+---
+
+## 🏗️ Modeling Process
+
+### Conceptual Modeling
+
+- Focused on identifying the core entities and their relationships.
+- Diagram and description included in the `docs/conceptual_model.pdf`.
+
+### Logical Modeling
+
+- Translated the conceptual model into a structured schema.
+- Defined attributes, keys, and relationships.
+- Diagram and description available in `docs/logical_model.pdf`.
+
+### Physical Modeling
+
+- Implemented the logical model using MongoDB.
+- Optimized for performance and scalability.
+- Details can be found in `docs/physical_model.pdf`.
 
 ---
 
@@ -115,34 +162,6 @@ Follow these steps to set up the project locally:
 
 - **Data Visualization:**
   - Use dashboards to present key metrics and trends.
-
----
-
-## 🤝 Team Members
-
-We are **Team BE14**, focused on creating cutting-edge database solutions:
-
-- **Database Architect:** [Your Name]  
-- **Backend Lead:** [Your Name]  
-- **Data Analyst:** [Your Name]  
-- **Project Manager:** [Your Name]  
-- **Tester:** [Your Name]  
-- **Documentation Specialist:** [Your Name]  
-
----
-
-## 👥 Meet the Team
-
-Here is a little more about us:
-
-| Name              | Role                  | Introduction                                                                 |
-|-------------------|-----------------------|-----------------------------------------------------------------------------|
-| [Your Name]       | Database Architect    | Passionate about designing scalable and efficient database systems.        |
-| [Your Name]       | Backend Lead          | Loves crafting APIs and ensuring seamless backend operations.              |
-| [Your Name]       | Data Analyst          | Excels at extracting meaningful insights from complex data sets.           |
-| [Your Name]       | Project Manager       | Keeps the team on track and ensures timely delivery of project milestones. |
-| [Your Name]       | Tester                | Focuses on ensuring the highest quality with meticulous testing.           |
-| [Your Name]       | Documentation Specialist | Captures the essence of the project through comprehensive documentation.   |
 
 ---
 
