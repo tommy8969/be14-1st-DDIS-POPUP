@@ -10,14 +10,9 @@ Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our te
 
 ## 🤝 Team Members
 
-We are **Team BE14**, focused on creating cutting-edge database solutions:
+We are **다다익姓(성)**, focused on creating cutting-edge database solutions:
 
-- **Database Architect:** [Your Name]  
-- **Backend Lead:** [Your Name]  
-- **Data Analyst:** [Your Name]  
-- **Project Manager:** [Your Name]  
-- **Tester:** [Your Name]  
-- **Documentation Specialist:** [Your Name]  
+
 
 ### 👥 Meet the Team
 
@@ -37,11 +32,22 @@ Here is a little more about us:
 ## 🎯 Project Overview
 
 ### POP UP!
-> pop up은 어쩌고 서비스다..>
+> 쉽고 빠른 POPUP STORE 운영, 이제 우리의 서비스와 함께하세요!
+POPUP STORE는 단기간 동안 특정 제품이나 브랜드를 홍보하기 위해 열리는 소규모 매장으로, 최근 독창적인 마케팅 전략으로 주목받고 있습니다. 그러나 성공적인 POPUP STORE 운영에는 체계적인 홍보와 결제 시스템이 필수입니다. 우리의 플랫폼은 이러한 니즈를 완벽히 충족하는 올인원 솔루션을 제공합니다.>
+
+### 📌 Project Necessity
+1️⃣ POPUP STORE 운영의 복잡성 해결 및 체계적인 관리 필요
+
+POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되며, 홍보, 결제, 사용자 리뷰 관리 등 다양한 요소를 종합적으로 다뤄야 합니다. 그러나 많은 사업자들이 각각의 요소를 별도로 관리해야 하는 상황에서 운영 효율성이 떨어지고 있습니다. 이에 따라, 한 번에 모든 기능을 관리할 수 있는 올인원 솔루션이 필요한 상황입니다.
 
 
-### ?
-- 팝업 운영자가 게시글을 등록하고 직접 관리하며, 사용자는 이를 통해 실시간으로 팝업 정보를 확인할 수 있는 양방향 소통 플랫폼입니다.
+2️⃣ 사용자 리뷰와 결제 시스템을 통한 신뢰성 확보 및 매출 증대 필요 
+
+사용자 리뷰와 추천은 소비자 신뢰를 얻고 마케팅 효과를 극대화하는 데 중요한 역할을 합니다. 또한, 빠르고 편리한 결제 시스템은 소비자 경험을 개선하고 결제 과정에서의 불편을 최소화하는 데 필수적입니다. 이에 POPUP STORE의 짧은 운영 기간 동안 긍정적인 사용자 경험을 제공하고, 결제 시스템의 효율성을 보장하여 매출 증가를 이끌 수 있도록 지원합니다.
+
+
+### 💡 Differentiation Strategy
+-  팝업 운영자가 게시글을 등록하고 직접 관리하며, 사용자는 이를 통해 실시간으로 팝업 정보를 확인할 수 있는 양방향 소통 플랫폼입니다.
 
 - 사용자는 팝업 정보를 열람하면서 티켓 구매까지 한 번에 진행할 수 있어 편의성을 극대화합니다.
 
@@ -71,7 +77,7 @@ Here is a little more about us:
 
 ## 📋 Role-based Functionalities
 
-### 회원
+#### 회원
 
 1. 회원정보(이름, 비밀번호, 전화번호 등)를 **등록**하여 회원가입을 할 수 있습니다.
 2. 회원은 아이디와 비밀번호로 **로그인**할 수 있습니다.
@@ -84,7 +90,7 @@ Here is a little more about us:
 9. 팝업 리뷰 및 댓글에 **좋아요**를 누르거나 **취소**할 수 있습니다.
 10. 부적절한 리뷰나 댓글을 **신고**할 수 있습니다.
 
-### 팝업 운영자
+#### 팝업 운영자
 
 1. 팝업 관련 정보를 **등록**하고 관리할 수 있습니다.
 2. 사용자들의 리뷰와 피드백을 **조회**할 수 있습니다.
@@ -97,7 +103,7 @@ Here is a little more about us:
 9. 팝업 게시물 내용을 수정 요청하거나 **삭제 요청**할 수 있습니다.
 10. 등록된 문의사항에 대한 **답변**을 달거나 변경할 수 있습니다.
 
-### 관리자
+#### 관리자
 
 1. 블랙리스트에 등록된 사용자를 **조회**하고 관리할 수 있습니다.
 2. 사용자 계정에 문제가 있을 경우 **이용을 제한**할 수 있습니다.
