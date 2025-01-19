@@ -146,7 +146,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ## Test Case
 - [**테스트케이스**](링크)  
 
-![테스트케이스](./images/다다익성_테스트케이스.)
+![테스트케이스](./images/다다익성_테스트케이스.png)
 
 ### User Management
 <details>
