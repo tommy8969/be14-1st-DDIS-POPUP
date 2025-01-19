@@ -454,6 +454,58 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## Team Assessments
+
+### 한윤상
+| Team Member | Peer Review |
+|----------|----------|
+| 강이도은    | Data     |
+| 고도연    | Data     |
+| 김기종    | Data     |
+| 이성준    | Data     |
+| 주아현    | Data     |
+### 강이도은
+| Team Member | Peer Review |
+|----------|----------|
+| 한윤상    | Data     |
+| 고도연    | Data     |
+| 김기종    | Data     |
+| 이성준    | Data     |
+| 주아현    | Data     |
+### 고도연
+| Team Member | Peer Review |
+|----------|----------|
+| 한윤상    | Data     |
+| 강이도은    | Data     |
+| 김기종    | Data     |
+| 이성준    | Data     |
+| 주아현    | Data     |
+### 김기종
+| Team Member | Peer Review |
+|----------|----------|
+| 한윤상    | Data     |
+| 강이도은    | Data     |
+| 고도연    | Data     |
+| 이성준    | Data     |
+| 주아현    | Data     |
+### 이성준
+| Team Member | Peer Review |
+|----------|----------|
+| 한윤상    | Data     |
+| 강이도은    | Data     |
+| 고도연    | Data     |
+| 김기종    | Data     |
+| 주아현    | Data     |
+### 주아현
+| Team Member | Peer Review |
+|----------|----------|
+| 한윤상    | Data     |
+| 강이도은    | Data     |
+| 고도연    | Data     |
+| 김기종    | Data     |
+| 이성준    | Data     |
+
+---
 
 
 <div align="center">
