@@ -166,7 +166,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 <details>
 <summary>Popup Board Management</summary>
 
-</details
+</details>
 <details>
 <summary>Payment Management</summary>
 
