@@ -17,19 +17,14 @@
 
 
 ## 목차 
-1. [개요](#🎯-Project-Overview)  
-1-1. [서비스 설명](#POP-UP!)  
-1-2. [목적 및 필요성](#📌-Project-Necessity)   
-1-3. [차별화 전략](#💡-Differentiation-Strategy)  
-2. [주요기능](#🚀-POP-UP!-Main-Functionalities)  
-2-1. [상세기능](#📋-Role-based-Functionalities)  
-3. [모델링](#🏗️-DB-Modeling)  
-4. [기술 스택](#🛠️-Tech-Stack)  
-5. [라이센스](#📜-License)  
+1. [개요](#Project-Overview)    
+2. [주요기능](#POP-UP!-Main-Functionalities)   
+3. [모델링](#DB-Modeling)  
+4. [기술 스택](#Tech-Stack)  
+5. [라이센스](#License)  
 
 
-    
-## 🎯 Project Overview
+## Project Overview
 ---
 ### POP UP!
 > 쉽고 빠른 POPUP STORE 운영, 이제 우리의 서비스와 함께하세요!
@@ -57,7 +52,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 ---
 
-## 🚀 POP UP! Main Functionalities
+## POP UP! Main Functionalities
 
 - 팝업 운영자는 게시물을 등록하여 팝업을 홍보하고 티켓을 판매할 수 있습니다.
 
@@ -67,7 +62,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 ## 📋 Role-based Functionalities
 
-#### 회원
+### 1️⃣ 회원
 
 1. 회원정보(이름, 비밀번호, 전화번호 등)를 **등록**하여 회원가입을 할 수 있습니다.
 2. 회원은 아이디와 비밀번호로 **로그인**할 수 있습니다.
@@ -80,7 +75,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 9. 팝업 리뷰 및 댓글에 **좋아요**를 누르거나 **취소**할 수 있습니다.
 10. 부적절한 리뷰나 댓글을 **신고**할 수 있습니다.
 
-#### 팝업 운영자
+### 2️⃣ 팝업 운영자
 
 1. 팝업 관련 정보를 **등록**하고 관리할 수 있습니다.
 2. 사용자들의 리뷰와 피드백을 **조회**할 수 있습니다.
@@ -93,7 +88,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 9. 팝업 게시물 내용을 수정 요청하거나 **삭제 요청**할 수 있습니다.
 10. 등록된 문의사항에 대한 **답변**을 달거나 변경할 수 있습니다.
 
-#### 관리자
+### 3️⃣ 관리자
 
 1. 블랙리스트에 등록된 사용자를 **조회**하고 관리할 수 있습니다.
 2. 사용자 계정에 문제가 있을 경우 **이용을 제한**할 수 있습니다.
@@ -108,26 +103,26 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 ---
 
-## 🏗️ DB Modeling
-### Flowchart
+## DB Modeling
+### 1️⃣ Flowchart
 ![플로우차트이미지](./images/다다익성_플로우차트.png)
 
 
-### Conceptual Modeling
+### 2️⃣ Conceptual Modeling
 ![개념이미지](./images/다다익성_유스케이스.jpg)
 
 
-### Logical Modeling
+### 3️⃣ Logical Modeling
 ![논리이미지](./images/다다익성_논리모델링.png)
 
 
-### Physical Modeling
+### 4️⃣ Physical Modeling
 ![물리이미지](./images/다다익성_물리적모델링.png)
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category   | Tools/Technologies |
 |------------|--------------------|
@@ -138,7 +133,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 
 ---
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
