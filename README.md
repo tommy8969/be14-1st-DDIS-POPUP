@@ -147,6 +147,17 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 - [**테스트케이스**](링크)  
 
 ![테스트케이스](./images/다다익성_테스트케이스.)
+
+### User Management
+<details>
+<summary>User</summary>
+
+</details>
+<details>
+<summary>Administrator</summary>
+
+</details>
+ 
 ---
 
 ## Tech Stack
