@@ -157,7 +157,31 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 <summary>Administrator</summary>
 
 </details>
- 
+
+### Activity Management
+<details>
+<summary>Review Board Management</summary>
+
+</details>
+<details>
+<summary>Popup Board Management</summary>
+
+</details
+ <details>>
+<summary>Payment Management</summary>
+
+</details>
+<details>
+<summary>Ticket Management</summary>
+
+</details>
+
+### Service Management
+<details>
+<summary>Customer Support Management</summary>
+
+</details>
+
 ---
 
 ## Tech Stack
