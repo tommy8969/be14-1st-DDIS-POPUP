@@ -18,7 +18,7 @@
 
 ## 목차 
 1. [개요](#Project-Overview)    
-2. [주요기능](#POP-UP!-Main-Functionalities)   
+2. [주요기능](#Main-Functionalities)   
 3. [모델링](#DB-Modeling)  
 4. [기술 스택](#Tech-Stack)  
 5. [라이센스](#License)  
@@ -52,7 +52,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 ---
 
-## POP UP! Main Functionalities
+## Main Functionalities
 
 - 팝업 운영자는 게시물을 등록하여 팝업을 홍보하고 티켓을 판매할 수 있습니다.
 
