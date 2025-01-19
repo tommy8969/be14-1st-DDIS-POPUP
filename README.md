@@ -504,7 +504,7 @@ This project is licensed under the [MIT License](LICENSE).
 | 강이도은    | Data     |
 | 고도연    | Data     |
 | 김기종    | Data     |
-| 이성준    | Data     |
+| 이성준    | 비전공자임에도 불구하고 매일 10시까지 공부하시는 뜨거운 열정과 노력을 보여주시며 정리를 기가맥히게 잘해 주시는 멋진 누나     |
 
 ---
 
