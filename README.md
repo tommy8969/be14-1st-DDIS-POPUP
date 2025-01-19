@@ -117,7 +117,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ## WBS
 - [**WBS**](링크)  
   
-![WBS](./images/다다익성_WBS.)  
+![WBS](./images/WBS.jpg)  
 
 ---  
 
