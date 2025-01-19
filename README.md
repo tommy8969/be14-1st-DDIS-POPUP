@@ -118,7 +118,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ![플로우차트이미지](./images/다다익성_플로우차트.png)
 
 
-### 2️⃣ Conceptual Modeling
+### 2️⃣ Conceptual Modeling (Use Case)
 ![개념이미지](./images/다다익성_유스케이스.jpg)
 
 
