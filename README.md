@@ -21,7 +21,7 @@
 2. [주요기능](#Main-Functionalities)
 3. [WBS](#WBS)
 4. [모델링](#DB-Modeling)
-5. [요구사항명세서](#Software-Requirement-Specification(SRS))
+5. [요구사항명세서](#Software-Requirement-Specification)
 6. [테스트케이스](#Test-Case)
 7. [기술 스택](#Tech-Stack)  
 8. [라이센스](#License)  
@@ -131,7 +131,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 
 ---
-## Software Requirement Specification(SRS)
+## Software Requirement Specification
 - [**요구사항명세서**](링크)
   
 ![요구사항명세서](./images/다다익성_요구사항명세서.jpg)
