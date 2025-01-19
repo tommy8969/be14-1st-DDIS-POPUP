@@ -24,7 +24,8 @@
 5. [요구사항명세서](#Software-Requirement-Specification)
 6. [테스트케이스](#Test-Case)
 7. [기술 스택](#Tech-Stack)  
-8. [라이센스](#License)  
+8. [라이센스](#License)
+9. [동료 평가](#Team-Assessments)
 
 
 ## Project Overview
