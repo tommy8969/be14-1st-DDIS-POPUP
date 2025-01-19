@@ -10,7 +10,7 @@
 
 |<img src="./images/윤상.png" width="150" height="150"/>|<img src="./images/도은.png" width="160" height="150"/>|<img src="./images/도연.png" width="160" height="150"/>|<img src="./images/기종.png" width="150" height="150"/>|<img src="./images/성준.png" width="150" height="150"/>|<img src="./images/아현.png" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|한윤상<br/>[@tommy8969](https://github.com/tommy8969)|ㅤㅤ강이도은ㅤㅤ<br/>[@RKDLDE](https://github.com/RKDLDE)|고도연<br/>[@ddxyxxn](https://github.com/ddxyxxn)|김기종<br/>[@rrangeess](https://github.com/rrangeess)|이성준<br/>[@1214alex](https://github.com/1214alex)|주아현<br/>[@Jooahyeon](https://github.com/Jooahyeon)|
+|한윤상<br/>[@tommy8969](https://github.com/tommy8969)|ㅤ강이도은ㅤ<br/>[@RKDLDE](https://github.com/RKDLDE)|고도연<br/>[@ddxyxxn](https://github.com/ddxyxxn)|김기종<br/>[@rrangeess](https://github.com/rrangeess)|이성준<br/>[@1214alex](https://github.com/1214alex)|주아현<br/>[@Jooahyeon](https://github.com/Jooahyeon)|
 
 
 </center>
