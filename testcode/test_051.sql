@@ -5,3 +5,4 @@ SELECT
      , a.admin_q_comment_content AS '답변내용'
 FROM admin_q_comment a
          JOIN client b ON a.client_num = b.client_num;
+
