@@ -151,7 +151,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ### User Management
 <details>
 <summary>User</summary>
-!(.images/test_001.gif)
+![test_001](.images/test_001.gif)
 </details>
 <details>
 <summary>Administrator</summary>
