@@ -115,7 +115,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ---  
 
 ## WBS
-- [**WBS**](링크)  
+- [**WBS**](https://docs.google.com/spreadsheets/d/1FECp_2-KM5WJWsJPxP18FmI2iZUmJD9ua9gwpqeq48A/edit?usp=sharing)  
   
 ![WBS](./images/WBS.jpg)  
 
