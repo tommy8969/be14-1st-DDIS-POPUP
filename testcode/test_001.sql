@@ -7,4 +7,4 @@ INTO client
 , client_gender, client_birth, client_nickname, client_type)
 VALUES
     ('곽두식', 'duski77', 'dudu@77', '010-4687-9578', 'dudu77@naver.com'
-    , '남', '1975-04-21', '두두', '회원');
+    , '남', '1975-04-21', '두두', '회원'); 
