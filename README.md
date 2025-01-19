@@ -1,20 +1,10 @@
+# POP UP! 팝업스토어 티켓 결제 대행 서비스
 ![배너](./images/다다익성_팝업배너.png)
 
 
-
-Welcome to the **BE14-1st-DDIS-POPUP** project! This repository showcases our team's database-focused project designed to revolutionize pop-up store management through efficient data handling and organization.
-
 ---
 
-## 🤝 Team Members
-
-We are **다다익姓(성)**, focused on creating cutting-edge database solutions:
-
-
-
-### 👥 Meet the Team
-
-Here is a little more about us:
+### 👥 Meet the **다다익姓(성)** Team Members
 
 <center>
 
@@ -25,14 +15,26 @@ Here is a little more about us:
 
 </center>
 
----
 
+## 목차 
+1. [개요](#🎯-Project-Overview)  
+1-1. [서비스 설명](#POP-UP!)  
+1-2. [목적 및 필요성](#📌-Project-Necessity)   
+1-3. [차별화 전략](#💡-Differentiation-Strategy)  
+2. [주요기능](#🚀-POP-UP!-Main-Functionalities)  
+2-1. [상세기능](#📋-Role-based-Functionalities)  
+3. [모델링](#🏗️-DB-Modeling)  
+4. [기술 스택](#🛠️-Tech-Stack)  
+5. [라이센스](#📜-License)  
+
+
+    
 ## 🎯 Project Overview
-
+---
 ### POP UP!
 > 쉽고 빠른 POPUP STORE 운영, 이제 우리의 서비스와 함께하세요!
 POPUP STORE는 단기간 동안 특정 제품이나 브랜드를 홍보하기 위해 열리는 소규모 매장으로, 최근 독창적인 마케팅 전략으로 주목받고 있습니다. 그러나 성공적인 POPUP STORE 운영에는 체계적인 홍보와 결제 시스템이 필수입니다. 우리의 플랫폼은 이러한 니즈를 완벽히 충족하는 올인원 솔루션을 제공합니다.>
-
+---
 ### 📌 Project Necessity
 1️⃣ POPUP STORE 운영의 복잡성 해결 및 체계적인 관리 필요
 
@@ -43,7 +45,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 사용자 리뷰와 추천은 소비자 신뢰를 얻고 마케팅 효과를 극대화하는 데 중요한 역할을 합니다. 또한, 빠르고 편리한 결제 시스템은 소비자 경험을 개선하고 결제 과정에서의 불편을 최소화하는 데 필수적입니다. 이에 POPUP STORE의 짧은 운영 기간 동안 긍정적인 사용자 경험을 제공하고, 결제 시스템의 효율성을 보장하여 매출 증가를 이끌 수 있도록 지원합니다.
 
-
+---
 ### 💡 Differentiation Strategy
 -  팝업 운영자가 게시글을 등록하고 직접 관리하며, 사용자는 이를 통해 실시간으로 팝업 정보를 확인할 수 있는 양방향 소통 플랫폼입니다.
 
@@ -55,21 +57,11 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 ---
 
-## 🚀 Database Features
+## 🚀 POP UP! Main Functionalities
 
-- **Schema Design:**
-  - Optimized for relational data, ensuring efficient storage and retrieval.
-  - Includes tables for products, customers, orders, and inventory.
+- 팝업 운영자는 게시물을 등록하여 팝업을 홍보하고 티켓을 판매할 수 있습니다.
 
-- **Data Integrity:**
-  - Enforced through primary and foreign key relationships.
-  - Implemented validation rules to maintain data accuracy.
-
-- **Real-Time Updates:**
-  - Integrated with the backend to reflect live updates from user interactions.
-
-- **Custom Reports:**
-  - Provides detailed analytics for sales trends, inventory levels, and customer behavior.
+- 사용자는 다양한 팝업 정보를 확인하며, 티켓 구매 및 리뷰와 별점을 통해 자신의 반응을 남길 수 있습니다
 
 ---
 
@@ -145,7 +137,7 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 | Modeling |   <img src="https://img.shields.io/badge/da%23-84A454?style=for-the-badge&logo=&logoColor=black" alt="da#">  |
 
 
-
+---
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
