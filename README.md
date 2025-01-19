@@ -18,10 +18,13 @@
 
 ## 목차 
 1. [개요](#Project-Overview)    
-2. [주요기능](#Main-Functionalities)   
-3. [모델링](#DB-Modeling)  
-4. [기술 스택](#Tech-Stack)  
-5. [라이센스](#License)  
+2. [주요기능](#Main-Functionalities)
+3. [WBS](#WBS)
+4. [모델링](#DB-Modeling)
+5. [요구사항명세서](#Software-Requirement-Specification(SRS))
+6. [테스트케이스](#Test-Case)
+7. [기술 스택](#Tech-Stack)  
+8. [라이센스](#License)  
 
 
 ## Project Overview
@@ -101,7 +104,14 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 9. 시스템 유지보수를 위해 로그 데이터를 **모니터링**할 수 있습니다.
 10. 사용자 및 운영자와의 문의사항을 **관리**하고 답변을 등록하거나 삭제할 수 있습니다.
 
----
+---  
+
+## WBS
+- [**WBS**](링크)  
+  
+![WBS](./images/다다익성_WBS.)  
+
+---  
 
 ## DB Modeling
 ### 1️⃣ Flowchart
@@ -120,6 +130,16 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ![물리이미지](./images/다다익성_물리적모델링.png)
 
 
+---
+## Software Requirement Specification(SRS)
+- [**요구사항명세서**](링크)
+  
+![요구사항명세서](./images/다다익성_요구사항명세서.jpg)
+
+## Test Case
+- [**테스트케이스**](링크)  
+
+![테스트케이스](./images/다다익성_테스트케이스.)
 ---
 
 ## Tech Stack
