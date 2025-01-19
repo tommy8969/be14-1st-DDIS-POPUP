@@ -151,35 +151,288 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 ### User Management
 <details>
 <summary>User</summary>
+ 
+<details>
+<summary>회원가입</summary>
 <img src="./images/test_001.gif">
 </details>
+
+<details>
+<summary>팝업운영자 회원가입(인증대기)</summary>
+<img src="./images/test_002.gif">
+</details>
+
+<details>
+<summary>회원탈퇴</summary>
+<img src="./images/test_003.gif">
+</details>
+
+<details>
+<summary>아이디찾기</summary>
+<img src="./images/test_004.gif">
+</details>
+
+<details>
+<summary>회원정보수정</summary>
+<img src="./images/test_005.gif">
+</details>
+
+<details>
+<summary>팝업운영자 회원정보수정</summary>
+<img src="./images/test_006.gif">
+</details>
+
+<details>
+<summary>회원 프로필 사진 변경</summary>
+<img src="./images/test_007.gif">
+</details>
+</details>
+
 <details>
 <summary>Administrator</summary>
 
+<details>
+<summary>사용자계정 이용제한</summary>
+<img src="./images/test_008.gif">
+</details>
+
+<details>
+<summary>블랙리스트조회</summary>
+<img src="./images/test_009.gif">
+</details>
+
+<details>
+<summary>팝업운영자등록</summary>
+<img src="./images/test_010.gif">
+</details>
+
+<details>
+<summary>팝업게시물등록</summary>
+<img src="./images/test_011.gif">
+</details>
+
+<details>
+<summary>팝업게시물 수정관리</summary>
+<img src="./images/test_0012.gif">
+</details>
+
+<details>
+<summary>관리자 리뷰신고관리</summary>
+<img src="./images/test_0013.gif">
+</details>
+
+<details>
+<summary>관리자 댓글신고관리</summary>
+<img src="./images/test_014.gif">
+</details>
 </details>
 
 ### Activity Management
 <details>
 <summary>Review Board Management</summary>
 
+<details>
+<summary>리뷰조회</summary>
+<img src="./images/test_015.gif">
 </details>
+
+<details>
+<summary>리뷰작성</summary>
+<img src="./images/test_016.gif">
+</details>
+
+<details>
+<summary>리뷰삭제</summary>
+<img src="./images/test_017.gif">
+</details>
+
+<details>
+<summary>리뷰수정</summary>
+<img src="./images/test_018.gif">
+</details>
+
+<details>
+<summary>리뷰좋아요</summary>
+<img src="./images/test_019.gif">
+</details>
+
+<details>
+<summary>리뷰좋아요취소</summary>
+<img src="./images/test_020.gif">
+</details>
+
+<details>
+<summary>리뷰댓글작성</summary>
+<img src="./images/test_021.gif">
+</details>
+
+<details>
+<summary>리뷰댓글수정</summary>
+<img src="./images/test_022.gif">
+</details>
+
+<details>
+<summary>리뷰댓글삭제</summary>
+<img src="./images/test_023.gif">
+</details>
+
+<details>
+<summary>리뷰댓글신고</summary>
+<img src="./images/test_024.gif">
+</details>
+
+<details>
+<summary>리뷰게시물신고</summary>
+<img src="./images/test_025.gif">
+</details>
+
+<details>
+<summary>베스트 리뷰 조회</summary>
+<img src="./images/test_026.gif">
+</details>
+</details>
+
 <details>
 <summary>Popup Board Management</summary>
 
+<details>
+<summary>팝업게시물조회</summary>
+<img src="./images/test_027.gif">
 </details>
+
+<details>
+<summary>진행상태별 팝업게시물 조회</summary>
+<img src="./images/test_028.gif">
+</details>
+
+<details>
+<summary>팝업게시물 등록요청</summary>
+<img src="./images/test_029.gif">
+</details>
+
+<details>
+<summary>팝업게시물 수정요청</summary>
+<img src="./images/test_030.gif">
+</details>
+
+<details>
+<summary>팝업게시물삭제</summary>
+<img src="./images/test_031.gif">
+</details>
+
+<details>
+<summary>관심목록조회</summary>
+<img src="./images/test_032.gif">
+</details>
+
+<details>
+<summary>관심목록등록</summary>
+<img src="./images/test_033.gif">
+</details>
+
+<details>
+<summary>관심목록취소</summary>
+<img src="./images/test_034.gif">
+</details>
+
+<details>
+<summary>팝업게시물 문의사항등록</summary>
+<img src="./images/test_035.gif">
+</details>
+
+<details>
+<summary>팝업게시물 문의사항수정</summary>
+<img src="./images/test_036.gif">
+</details>
+
+<details>
+<summary>팝업게시물 문의사항삭제</summary>
+<img src="./images/test_037.gif">
+</details>
+
+<details>
+<summary>팝업게시물 문의사항 답변등록</summary>
+<img src="./images/test_038.gif">
+</details>
+
+<details>
+<summary>팝업별 리뷰게시물조회</summary>
+<img src="./images/test_039.gif">
+</details>
+
+<details>
+<summary>별점평균순 베스트게시물조회</summary>
+<img src="./images/test_040.gif">
+</details>
+
+<details>
+<summary>관심목록순 베스트게시물조회</summary>
+<img src="./images/test_041.gif">
+</details>
+</details>
+
 <details>
 <summary>Payment Management</summary>
 
+<details>
+<summary>결제진행</summary>
+<img src="./images/test_042.gif">
 </details>
+
+<details>
+<summary>결제환불</summary>
+<img src="./images/test_043.gif">
+</details>
+
+<details>
+<summary>거래내역조회</summary>
+<img src="./images/test_044.gif">
+</details>
+
+<details>
+<summary>판매내역조회</summary>
+<img src="./images/test_045.gif">
+</details>
+</details>
+
 <details>
 <summary>Ticket Management</summary>
 
+<details>
+<summary>티켓발급</summary>
+<img src="./images/test_046.gif">
 </details>
+
+<details>
+<summary>티켓조회</summary>
+<img src="./images/test_047.gif">
+</details>
+</details>
+
 
 ### Service Management
 <details>
 <summary>Customer Support Management</summary>
 
+<details>
+<summary>문의사항 답변등록</summary>
+<img src="./images/test_048.gif">
+</details>
+
+<details>
+<summary>문의사항 답변수정</summary>
+<img src="./images/test_049.gif">
+</details>
+
+<details>
+<summary>문의사항 답변삭제</summary>
+<img src="./images/test_050.gif">
+</details>
+
+<details>
+<summary>문의사항조회</summary>
+<img src="./images/test_051.gif">
+</details>
 </details>
 
 ---
