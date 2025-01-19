@@ -1,1 +1,1 @@
-delete from comment where comment_num = 21;
+delete from comment where comment_num = 21; 
