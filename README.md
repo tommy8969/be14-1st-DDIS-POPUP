@@ -214,12 +214,12 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 <details>
 <summary>팝업게시물 수정관리</summary>
-<img src="./images/test_0012.gif">
+<img src="./images/test_012.gif">
 </details>
 
 <details>
 <summary>관리자 리뷰신고관리</summary>
-<img src="./images/test_0013.gif">
+<img src="./images/test_013.gif">
 </details>
 
 <details>
