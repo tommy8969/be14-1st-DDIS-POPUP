@@ -478,7 +478,7 @@ This project is licensed under the [MIT License](LICENSE).
 |----------|----------|
 | 한윤상    | Data     |
 | 강이도은    | Data     |
-| 김기종    | Data     |
+| 김기종    | 밝은 얼굴과 에너지로 번뜩이고 효율적인 아이디어를 제공하시는 모습과 더불어 엄청난 ppt능력 덕분에 많은 도움을 받아 감사합니다 !     |
 | 이성준    | Data     |
 | 주아현    | Data     |
 ### 김기종
