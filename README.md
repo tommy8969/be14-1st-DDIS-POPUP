@@ -468,7 +468,7 @@ This project is licensed under the [MIT License](LICENSE).
 ### 강이도은
 | Team Member | Peer Review |
 |----------|----------|
-| 한윤상    | Data     |
+| 한윤상    | 테스트     |
 | 고도연    | Data     |
 | 김기종    | 항상 논리적으로 꼼꼼하게 매사에 해결책을 주시는 모습과 엄청난 ppt능력 덕분에 성공적으로 마칠 수 있었던 거 같아 감사합니다 !     |
 | 이성준    | Data     |
