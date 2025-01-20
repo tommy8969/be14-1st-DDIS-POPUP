@@ -139,6 +139,9 @@ POPUP STORE는 짧은 시간 동안 효과적인 마케팅을 위해 운영되�
 
 
 ---
+
+## Replication
+
 ## Software Requirement Specification
 - [**요구사항명세서**](https://docs.google.com/spreadsheets/d/1Mmpfjvvy2EqmD_xztQCP8p7X98NCN32QOAH2ceaW76E/edit?usp=sharing)
   
