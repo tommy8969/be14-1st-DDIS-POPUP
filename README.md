@@ -495,7 +495,7 @@ This project is licensed under the [MIT License](LICENSE).
 | 한윤상    | Data     |
 | 강이도은    | Data     |
 | 고도연    | Data     |
-| 김기종    | Data     |
+| 김기종    | 남들은 얼핏 보거나 못 보고 지나치는 모습도 한번 더 보고 매사에 최선을 다해 열심히 임해주시는 모습에 감사할 따름입니다 !     |
 | 주아현    | Data     |
 ### 주아현
 | Team Member | Peer Review |
@@ -503,7 +503,7 @@ This project is licensed under the [MIT License](LICENSE).
 | 한윤상    | Data     |
 | 강이도은    | Data     |
 | 고도연    | Data     |
-| 김기종    | Data     |
+| 김기종    | 남들을 향해 아낌 없이 배려해주시고 적극적인 의사소통으로 팀에 녹아드는 모습을 보고 많이 배우는 거 같습니다. 감사할 따름입니다 !     |
 | 이성준    | 매일 10시까지 남아 스터디를 진행하며 엄청난 노력을 하고, 우리가 생각하지 못하고 수정하지 않았던 작업들을 수행하며 놓칠만한 것들을 놓치지 않게 꼼꼼히 챙겨줌|
 
 ---
