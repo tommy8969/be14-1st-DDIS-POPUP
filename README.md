@@ -462,7 +462,7 @@ This project is licensed under the [MIT License](LICENSE).
 |----------|----------|
 | 강이도은    | Data     |
 | 고도연    | Data     |
-| 김기종    | Data     |
+| 김기종    | 팀장으로서 항상 침착하게 팀을 이끌어주고 부딪히는 문제나 어려움에 대해 현명하게 대처해줘서 같은 팀으로써 감사했습니다 ~     |
 | 이성준    | Data     |
 | 주아현    | Data     |
 ### 강이도은
